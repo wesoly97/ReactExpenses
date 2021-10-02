@@ -9,7 +9,7 @@ const Navbar = () => {
                     <div className="container">
                         <div className="row navRow">
                             <div className="col s1">
-                                <a href="/" className="brand-logo">E-EXPENSE</a>
+                                <a href="/ReactExpenses/" className="brand-logo">E-EXPENSE</a>
                             </div>
                         </div>
                     </div>
