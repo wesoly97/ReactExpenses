@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactExpenses/static/css/main.13e7f900.chunk.css",
+    "main.js": "/ReactExpenses/static/js/main.f6c04998.chunk.js",
+    "main.js.map": "/ReactExpenses/static/js/main.f6c04998.chunk.js.map",
+    "runtime-main.js": "/ReactExpenses/static/js/runtime-main.48884282.js",
+    "runtime-main.js.map": "/ReactExpenses/static/js/runtime-main.48884282.js.map",
+    "static/js/2.f6f766a2.chunk.js": "/ReactExpenses/static/js/2.f6f766a2.chunk.js",
+    "static/js/2.f6f766a2.chunk.js.map": "/ReactExpenses/static/js/2.f6f766a2.chunk.js.map",
+    "static/js/3.a40cf1d6.chunk.js": "/ReactExpenses/static/js/3.a40cf1d6.chunk.js",
+    "static/js/3.a40cf1d6.chunk.js.map": "/ReactExpenses/static/js/3.a40cf1d6.chunk.js.map",
+    "index.html": "/ReactExpenses/index.html",
+    "static/css/main.13e7f900.chunk.css.map": "/ReactExpenses/static/css/main.13e7f900.chunk.css.map",
+    "static/js/2.f6f766a2.chunk.js.LICENSE.txt": "/ReactExpenses/static/js/2.f6f766a2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ReactExpenses/static/media/pattern.35c8c6cb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48884282.js",
+    "static/js/2.f6f766a2.chunk.js",
+    "static/css/main.13e7f900.chunk.css",
+    "static/js/main.f6c04998.chunk.js"
+  ]
+}
